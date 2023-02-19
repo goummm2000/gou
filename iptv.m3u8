@@ -1,386 +1,161 @@
-#EXTM3U
-#EXTINF:8,Latin America Sport
-#EXTGRP: Deportes
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0rd/index.m3u8
-#EXTINF:8,Claro Sports  HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0on/index.m3u8
-#EXTINF:8,ESPN  +
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0py/index.m3u8
-#EXTINF:0,ESPN 2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0t6/index.m3u8
-#EXTINF:0,ESPN 3 HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0t5/index.m3u8
-#EXTINF:0,ESPN 4  HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0ur/index.m3u8
-#EXTINF:8,ESPN 4
-http://177.234.198.43:8000/play/a00j/index.m3u8
-#EXTINF:0,12009 ESPN 3
-http://177.234.198.43:8000/play/a00h/index.m3u8
-#EXTINF:0,12010 ESPN 2
-http://177.234.198.43:8000/play/a00i/index.m3u8
-#EXTINF:0,ESPN Deportes HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0uv/index.m3u8
-#EXTINF:0,ESPN HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0t4/index.m3u8
-#EXTINF:8,ESPN
-http://177.234.198.43:8000/play/a00b/index.m3u8
-#EXTINF:0,ESPN
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a022
-#EXTINF:0,ESPN 2
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01v
-#EXTINF:0,ESPN 2 Latin
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a021
-#EXTINF:0,ESPN 3
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02w
-#EXTINF:0,ESPN CO
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02m
-#EXTINF:8,FUTBOL EC
-http://177.234.198.43:8000/play/a00e/index.m3u8
-#EXTINF:8,FOX SPORT 2
-http://177.234.198.43:8000/play/a00f/index.m3u8
-#EXTINF:8,FOX SPORT 3
-http://177.234.198.43:8000/play/a00g/index.m3u8
-#EXTINF:8,C SPORT
-http://177.234.198.43:8000/play/a017/index.m3u8
-#EXTINF:0,FOX SPORTS 3 HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0t7/index.m3u8
-#EXTINF:8,FOX Sports 2
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0rc/index.m3u8
-#EXTINF:0,Fox Sport 3
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0pm/index.m3u8
-#EXTINF:0,Fox Sports 1
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02f
-#EXTINF:0,Fox Sports 2
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a028
-#EXTINF:0,Fox Sports 3
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a029
-#EXTINF:0,TyC
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a024
-#EXTINF:0,GOL TV
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a023
-#EXTINF:0,France 24
-#EXTGRP: Noticias
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02c
-#EXTINF:0,CNN Espanol
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01q
-#EXTINF:8,NTN 24
-http://177.234.198.43:8000/play/a00y/index.m3u8
-#EXTINF:8,CNN Internacional
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0o7/index.m3u8
-#EXTINF:8,CNNE
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0ps/index.m3u8
-#EXTINF:0,Cinecanal
-#EXTGRP: Cine
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01f
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02n
-#EXTINF:11,CINECANAL HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0sl/index.m3u8
-#EXTINF:0,CineMax
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0ug/index.m3u8
-#EXTINF:0,Claro Cinema
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0sh/index.m3u8
-#EXTINF:8,HBO Family HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-#EXTINF:0,HBO HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0or/index.m3u8
-#EXTINF:0,HBO Plus HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0ot/index.m3u8
-#EXTINF:0,HBO XTREME
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0un/index.m3u8
-#EXTINF:8,HBO XTREME
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0ov/index.m3u8
-#EXTINF:0,HBO2 HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0os/index.m3u8
-#EXTINF:8,Cine Premium HD
-http://177.234.198.43:8000/play/a01d/index.m3u8
-#EXTINF:8,Cine Hispano HD
-http://177.234.198.43:8000/play/a01e/index.m3u8
-#EXTINF:0,12026 cine familiar
-http://177.234.198.43:8000/play/a01f/index.m3u8
-#EXTINF:0,12027 cine infantil
-http://177.234.198.43:8000/play/a01g/index.m3u8
-#EXTINF:0,12029 cine canal
-http://177.234.198.43:8000/play/a01n/index.m3u8
-#EXTINF:0,12030 cine mexicano
-http://177.234.198.43:8000/play/a01o/index.m3u8
-#EXTINF:8,CINEMA PLATINO
-http://177.234.198.43:8000/play/a01u/index.m3u8
-#EXTINF:0,AE Mundo
-#EXTGRP: Hogar
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a025
-#EXTINF:0,AXN
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02p
-#EXTINF:0,Animal Planet
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01y
-#EXTINF:0,Canal Estrellas
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a027
-#EXTINF:0,Discovery Channel
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01x
-#EXTINF:0,Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02u
-#EXTINF:0,E Entertainment
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a020
-#EXTINF:0,FX
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02r
-#EXTINF:0,History Channel
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01e
-#EXTINF:0,HomeandHealth
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02e
-#EXTINF:0,MTV
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01i
-#EXTINF:0,Nat Geo
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01d
-#EXTINF:0,RCN Novelas
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02b
-#EXTINF:0,Sony
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02o
-#EXTINF:0,Space
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02q
-#EXTINF:0,TBS
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02d
-#EXTINF:0,TC HD
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a008
-#EXTINF:0,TNT
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01n
-#EXTINF:0,TVE
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01p
-#EXTINF:0,Telemundo
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a02a
-#EXTINF:0,Universal
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01g
-#EXTINF:0,Warner
-#EXTVLCOPT:network-caching=1000
-http://200.24.132.99:8000/play/a01z
-#EXTINF:11,A&E HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0q7/index.m3u8
-#EXTINF:11,AMC HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0q8/index.m3u8
-#EXTINF:11,AXN HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0us/index.m3u8
-#EXTINF:11,AZ click HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0qe/index.m3u8
-#EXTINF:11,Animal Planet HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0q4/index.m3u8
-#EXTINF:8,Antena 3
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0nv/index.m3u8
-#EXTINF:8,Atres Series
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0o1/index.m3u8
-#EXTINF:11,Azcorazon
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0pg/index.m3u8
-#EXTINF:11,Azmundo
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0s4/index.m3u8
-#EXTINF:8,BBC World
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0pt/index.m3u8
-#EXTINF:8,Canal Claro HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0oo/index.m3u8
-#EXTINF:8,Discovery Channel HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0tb/index.m3u8
-#EXTINF:0,Discovery Home & Health
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0u6/index.m3u8
-#EXTINF:0,Discovery ID HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0tf/index.m3u8
-#EXTINF:0,Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0ny/index.m3u8
-#EXTINF:0,Discovery Turbo
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0u5/index.m3u8
-#EXTINF:0,Discovery World HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0tc/index.m3u8
-#EXTINF:0,E!
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0s7/index.m3u8
-#EXTINF:0,E! Entertairment HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0q5/index.m3u8
-#EXTINF:8,El Gourmet
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0r8/index.m3u8
-#EXTINF:0,History HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0px/index.m3u8
-#EXTINF:8,Hola!TV
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0nz/index.m3u8
-#EXTINF:8,Home Garden Latino
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0nx/index.m3u8
-#EXTINF:0,LIFE TIME
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0pl/index.m3u8
-#EXTINF:0,Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0t8/index.m3u8
-#EXTINF:0,National Geographic
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0pk/index.m3u8
-#EXTINF:0,Paramount HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0t9/index.m3u8
-#EXTINF:0,RT Noticas
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0ti/index.m3u8
-#EXTINF:0,SONY HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0sk/index.m3u8
-#EXTINF:0,SPACE HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0ut/index.m3u8
-#EXTINF:0,STAR CHANNEL HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0si/index.m3u8
-#EXTINF:0,Star TVE HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0qf/index.m3u8
-#EXTINF:0,Studio Universal HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0q2/index.m3u8
-#EXTINF:0,Sun Channel
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0r9/index.m3u8
-#EXTINF:0,SyFy HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0q3/index.m3u8
-#EXTINF:0,TBN Enlace
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0pv/index.m3u8
-#EXTINF:0,TBS
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0pj/index.m3u8
-#EXTINF:0,TNT Series
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0pi/index.m3u8
-#EXTINF:0,TNT Series HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0ta/index.m3u8
-#EXTINF:0,TVE
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0o6/index.m3u8
-#EXTINF:0,Telemundo HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0q9/index.m3u8
-#EXTINF:0,UNIVERSAL CINEMA HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0v2/index.m3u8
-#EXTINF:0,UNIVERSAL COMEDY
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0rl/index.m3u8
-#EXTINF:11,Univision HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0v0/index.m3u8
-#EXTINF:0,WARNER HD
-#EXTVLCOPT:network-caching=1000
-http://190.83.119.67:8000/play/a0tk/index.m3u8
-#EXTINF:15,RAI Italia Asia (576p) [Geo-blocked]
-http://210.210.155.35/x6bnqe/s/s63/index2.m3u8?checkedby:iptvcat.com
-#EXTINF:30,Rai 3
-http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:28,La 7
-https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8?checkedby:iptvcat.com
-#EXTINF:8,A3 Internacional
-http://177.234.198.43:8000/play/a006/index.m3u8
-#EXTINF:8,A3Series
-http://177.234.198.43:8000/play/a007/index.m3u8
-#EXTINF:8,PARAMOUNT HD
-http://177.234.198.43:8000/play/a00c/index.m3u8
-#EXTINF:8,12017 Telemundo
-http://177.234.198.43:8000/play/a016/index.m3u8
-#EXTINF:8,STAR CHANNEL
-http://177.234.198.43:8000/play/a012/index.m3u8
-#EXTINF:8,FX
-http://177.234.198.43:8000/play/a01t/index.m3u8
-#EXTINF:8,SONY CHANNEL
-http://177.234.198.43:8000/play/a005/index.m3u8
-#EXTINF:8,LOVE NATURE HD
-http://177.234.198.43:8000/play/a024/index.m3u8
-#EXTINF:0,12036 ANIMAL PLANET
-http://177.234.198.43:8000/play/a008/index.m3u8
-#EXTINF:0,12038 DISCOVERY H&H
-http://177.234.198.43:8000/play/a00l/index.m3u8
-#EXTINF:0,12039 DISCOVERY CHANNEL
-http://177.234.198.43:8000/play/a00m/index.m3u8
-#EXTINF:8,DISCOVERY ID
-http://177.234.198.43:8000/play/a00n/index.m3u8
-#EXTINF:8,NATGEO
-http://177.234.198.43:8000/play/a00x/index.m3u8
-#EXTINF:8,RT DOC
-http://177.234.198.43:8000/play/a01j/index.m3u8
-#EXTINF:8,STUDIO UNIVERSAL
-http://177.234.198.43:8000/play/a01l/index.m3u8
-#EXTINF:8,SYFY
-http://177.234.198.43:8000/play/a01m/index.m3u8
-#EXTINF:8,UNIVERSAL CH
-http://177.234.198.43:8000/play/a01q/index.m3u8
+#港台#
+@凤凰中文,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8@
+@凤凰资讯,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8@
+@凤凰香港,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8@
+#中央#
+@CCTV1综合,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8@
+@CCTV2财经,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8@
+@CCTV3综艺,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8@
+@CCTV4中文国际,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8@
+@CCTV5体育,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8@
+@CCTV5+体育,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8@
+@CCTV6电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8@
+@CCTV7军事农业,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8@
+@CCTV8电视剧,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8@
+@CCTV9记录,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8@
+@CCTV10科教,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8@
+@CCTV11戏曲,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8@
+@CCTV12社会与法,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8@
+@CCTV13新闻,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8@
+@CCTV14少儿,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8@
+@CTV15音乐,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8@
+@CCTV17农业农村,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8@
+#卫视#
+@东南卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226406/1.m3u8@
+@东方卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8@
+@北京卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8@
+@天津卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8@
+@安徽卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8@
+@山东卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8@
+@广东卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8@
+@江苏卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8@
+@江西卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8@
+@浙江卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8@
+@深圳卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8@
+@湖北卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8@
+@湖南卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8@
+@贵州卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8@
+@辽宁卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8@
+@黑龙江卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8@
+#NewTV#
+@中国功夫,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8@
+@东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8@
+@怡伴健康,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8@
+@军事评论,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8@
+@军旅剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8@
+@农业致富,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8@
+@动作电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8@
+@古装剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8@
+@家庭剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8@
+@惊悚悬疑,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226423/1.m3u8@
+@明星大片,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226425/1.m3u8@
+@武搏世界,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8@
+@海外剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8@
+@潮妈辣婆,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8@
+@炫舞未来,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8@
+@爱情喜剧,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8@
+@精品体育,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8@
+@精品大剧,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8@
+@精品纪录,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8@
+@超级体育,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8@
+@超级电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8@
+@超级电视剧,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8@
+@超级综艺,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8@
+@金牌综艺,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8@
+#其他#
+@SiTV欢笑剧场,http://39.134.39.39/PLTV/88888888/224/3221226203/index.m3u8@
+@SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8@
+@北京影视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8@
+@北京文艺,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8@
+@北京新闻,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8@
+@北京IPTV4K超清,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8@
+@北京IPTV淘BABY,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8@
+@北京IPTV淘剧场,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8@
+@北京IPTV淘娱乐,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8@
+@北京IPTV淘电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8@
+@北京IPTV萌宠TV,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8@
+@上海纪实人文,http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8@
+@上海东方影视,http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8@
+@四川影视文艺,http://182.138.51.71/PLTV/88888920/224/3221225538/index.m3u8@
+@甘肃文化影视,http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8@
+@黑莓电影,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8@
+@中国教育1,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8@
+@大健康,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8@
+@求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8@
+@求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8@
+@求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8@
+@求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8@
+@北京卡酷少儿,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/1.m3u8@
+@SiTV劲爆体育,http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8@
+@北京冬奥纪实,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8@
+#标清#
+@CCTV1,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8@
+@CCTV2,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8@
+@CCTV3,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8@
+@CCTV4,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226455/1.m3u8@
+@CCTV5,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8@
+@CCTV5+,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225938/1.m3u8@
+@CCTV6,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8@
+@CCTV7,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226452/1.m3u8@
+@CCTV8,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8@
+@CCTV9,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8@
+@CCTV10,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8@
+@CCTV11,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8@
+@CCTV12,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226447/1.m3u8@
+@CCTV13,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8@
+@CCTV14,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8@
+@CCTV15,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8@
+@CCTV17,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8@
+@CGTN,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8@
+@CGTN纪录,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8@
+@中国教育1,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8@
+@中国教育2,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8@
+@中国教育4,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8@
+@东南卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225876/1.m3u8@
+@东方卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226161/1.m3u8@
+@云南卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8@
+@内蒙古卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8@
+@北京卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226160/1.m3u8@
+@厦门卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8@
+@吉林卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8@
+@四川卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226523/1.m3u8@
+@天津卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225899/1.m3u8@
+@宁夏卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8@
+@安徽卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226490/1.m3u8@
+@山东卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226487/1.m3u8@
+@山西卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8@
+@广东卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226535/1.m3u8@
+@广西卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8@
+@新疆卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8@
+@江苏卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225887/1.m3u8@
+@江西卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225888/1.m3u8@
+@河北卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226536/1.m3u8@
+@河南卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226525/1.m3u8@
+@浙江卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8@
+@海南卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8@
+@湖北卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225884/1.m3u8@
+@湖南卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226162/1.m3u8@
+@甘肃卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/1.m3u8@
+@西藏卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8@
+@贵州卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226521/1.m3u8@
+@辽宁卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225889/1.m3u8@
+@重庆卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8@
+@陕西卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8@
+@青海卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/1.m3u8@
+@黑龙江卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225883/1.m3u8@
+@山东教育卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8@
+@广东南方卫视地面,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226540/1.m3u8@
+@新疆兵团卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8@
+@海南三沙卫视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8@
+@北京卡酷少儿,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226511/1.m3u8@
+@北京国际,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8@
+@北京影视,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8@
+@北京文艺,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8@
+@北京新闻,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8@
+@北京生活,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8@
+@北京科教,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8@
+@北京青年,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226513/1.m3u8@
+@上海哈哈炫动,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8@
+@广东嘉佳卡通,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8@
+@江苏优漫卡通,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8@
+@湖南金鹰卡通,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8@
